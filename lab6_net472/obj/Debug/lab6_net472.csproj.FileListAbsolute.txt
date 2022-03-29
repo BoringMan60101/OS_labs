@@ -1,0 +1,11 @@
+C:\Users\alex2\Desktop\lab6_net472\bin\Debug\lab6_net472.exe.config
+C:\Users\alex2\Desktop\lab6_net472\bin\Debug\lab6_net472.exe
+C:\Users\alex2\Desktop\lab6_net472\bin\Debug\lab6_net472.pdb
+C:\Users\alex2\Desktop\lab6_net472\obj\Debug\lab6_net472.csproj.AssemblyReference.cache
+C:\Users\alex2\Desktop\lab6_net472\obj\Debug\lab6_net472.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex2\Desktop\lab6_net472\obj\Debug\lab6_net472.Form1.resources
+C:\Users\alex2\Desktop\lab6_net472\obj\Debug\lab6_net472.Properties.Resources.resources
+C:\Users\alex2\Desktop\lab6_net472\obj\Debug\lab6_net472.csproj.GenerateResource.cache
+C:\Users\alex2\Desktop\lab6_net472\obj\Debug\lab6_net472.csproj.CoreCompileInputs.cache
+C:\Users\alex2\Desktop\lab6_net472\obj\Debug\lab6_net472.exe
+C:\Users\alex2\Desktop\lab6_net472\obj\Debug\lab6_net472.pdb
